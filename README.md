@@ -1,4 +1,4 @@
-# Scala institution
+# Scala institution description
 
 * A Scalable language
 * First Step in Scala
